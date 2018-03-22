@@ -1,0 +1,9 @@
+{
+  "name": "codeceptjs-example",
+  "version": "0.1.0",
+  "license": "MIT",
+  "dependencies": {
+    "codeceptjs": "1.1.7",
+    "nightmare": "2.10.0"
+  }
+}
