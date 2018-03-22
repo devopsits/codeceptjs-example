@@ -6,6 +6,8 @@ For this use case we are using Nightmare for its compactness, speed and screensh
 
 ## 1. Prerequisites
 
+**Note**: *This works on Linux/OSX/Windows*
+
 Before installing or starting to use the testing framework you need to install the latest version of NodeJS: [https://nodejs.org/en/](https://nodejs.org/en/)
 
 ### 1.1 Yarn
